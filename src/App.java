@@ -30,13 +30,8 @@ public class App {
 
         System.out.println(s.toString());
 
-        //formatting
+    //FUCK
 
-        System.out.println("here is some text\tThat was a tab\n that was a newline");
-        System.out.println("more text");
-
-
-        System.out.printf("Total cost %d", 5.5);
 
 
     }
